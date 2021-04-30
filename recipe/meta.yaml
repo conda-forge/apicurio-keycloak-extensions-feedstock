@@ -10,7 +10,7 @@ source:
   sha256: a95686ada376b97d205a6b9b80403b6107891d01878260f155633e5e04a9696a
 
 build:
-  number: 0
+  number: 1
   noarch: generic
 
 requirements:
@@ -33,6 +33,7 @@ about:
 
 extra:
   recipe-maintainers:
+    - mxr-conda
     - ndmaxar
     - rluria14
     - oblute
